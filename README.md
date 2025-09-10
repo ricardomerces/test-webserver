@@ -25,10 +25,9 @@ Este é um servidor web simples em Flask, empacotado em Docker para fins de test
    curl http://localhost:<SUA_PORTA>/
    ```
 
-   Você deverá ver a resposta JSON:
+   Você deverá ver a resposta
 
-   ```json
-   {
-     "message": "Hello, World!"
-   }
+   ```
+    HTTPD SERVER
+    THE SERVER IS RUNNING!
    ```
