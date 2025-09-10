@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello():
-    return jsonify(message="Hello, World!")
+    return jsonify(message="Web Server TEST")
 
 if __name__ == "__main__":
     # Run the app on port 8080 to match container configuration
